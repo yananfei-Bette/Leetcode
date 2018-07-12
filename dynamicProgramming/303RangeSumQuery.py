@@ -1,4 +1,4 @@
-#303 Range Sum Query
+#303 Range Sum Query - Immutable
 #######
 # idea is from :https://leetcode.com/problems/range-sum-query-immutable/solution/
 '''
