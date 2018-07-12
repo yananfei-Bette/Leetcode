@@ -1,6 +1,6 @@
-#07_11_2018
+# 07_11_2018
 
-*Dynamic Programming*
+**Dynamic Programming**
 
 1. 746 minCostClimbingStairs
 
@@ -8,8 +8,8 @@
 
 3. 70 climbingStaris
 
-#07_12_2018
+# 07_12_2018
 
-*Dynamic Programming*
+**Dynamic Programming**
 
 1. 53 Maximum SUbarray
