@@ -1,9 +1,15 @@
-07_11_2018
+#07_11_2018
 
-Dynamic Programming
+*Dynamic Programming*
 
-746 minCostClimbingStairs
+1. 746 minCostClimbingStairs
 
-121 bestTimetoBuyandSellStock
+2. 121 bestTimetoBuyandSellStock
 
-70 climbingStaris
+3. 70 climbingStaris
+
+#07_12_2018
+
+*Dynamic Programming*
+
+1. 53 Maximum SUbarray
