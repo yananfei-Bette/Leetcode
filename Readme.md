@@ -17,3 +17,9 @@
 2. 198 House Robber
 
 3. 303 Range Sum Query-Immutable
+
+# 07_13_2018
+
+**Dynamic Programming**
+
+1. 338 Counting Bits
