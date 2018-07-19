@@ -23,3 +23,9 @@
 **Dynamic Programming**
 
 1. 338 Counting Bits
+
+# 07_18_2018
+
+**Dynamic Programming**
+
+1. 647 Palindromic Substrings
