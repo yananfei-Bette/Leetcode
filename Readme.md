@@ -29,3 +29,19 @@
 **Dynamic Programming**
 
 1. 647 Palindromic Substrings
+
+# 07_24_2018
+
+**Dynamic Programming**
+
+1. 413 Arithmetic Slices
+
+2. 712 Minimum ASCII Delete Sum
+
+4. 714 Best Time to Buy and Sell Stock with transaction Fee
+
+5. 343 Integer Break
+
+**Greedy**
+
+3. 646 Maximum Length of Pair Chain
