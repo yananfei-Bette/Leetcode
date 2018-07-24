@@ -38,10 +38,10 @@
 
 2. 712 Minimum ASCII Delete Sum
 
-4. 714 Best Time to Buy and Sell Stock with transaction Fee
+3. 714 Best Time to Buy and Sell Stock with transaction Fee
 
-5. 343 Integer Break
+4. 343 Integer Break
 
 **Greedy**
 
-3. 646 Maximum Length of Pair Chain
+1. 646 Maximum Length of Pair Chain
