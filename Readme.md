@@ -52,6 +52,8 @@
 
 1. 722 Remove Comments **(Goldman sachs OA)**
 
-**DFS with array**
+**Array**
 
-1. 695 Max Area of Island **(byte dance OA)**
+1. 695 Max Area of Island **(byte dance OA)** KEY:**DFS**
+
+2. 56 Merge Intervals **(byte dance OA)** Key:**sort**
