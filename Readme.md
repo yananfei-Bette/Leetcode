@@ -48,6 +48,6 @@
 
 # 08_23_2018
 
-**String (Goldman sachs OA)**
+**String**
 
-1. 722 Remove Comments
+1. 722 Remove Comments **(Goldman sachs OA)**
