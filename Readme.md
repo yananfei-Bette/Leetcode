@@ -57,3 +57,9 @@
 1. 695 Max Area of Island **(byte dance OA)** KEY:**DFS**
 
 2. 56 Merge Intervals **(byte dance OA)** Key:**sort**
+
+# 08_24_2018
+
+**Dynamic Programming**
+
+1. 343 Integer Break version 2 **(byte dance 0A)**
