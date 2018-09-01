@@ -63,3 +63,9 @@
 **Dynamic Programming**
 
 1. 343 Integer Break version 2 **(byte dance 0A)**
+
+# 08_25_2018
+
+**GoogleOA**
+
+1. 159 Longest Substring with at Most Two Distinct Characters **Two Pointers/ Hash Table**
