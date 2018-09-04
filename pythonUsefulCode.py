@@ -41,3 +41,9 @@ for (A, B), V in zip(equations, values):
     # set compute
     G[A], G[B] = G[A] | {B}, G[B] | {A}
     W[A, B], W[B, A] = V, 1.0/V
+
+#12
+#find the min length of A that B in A.
+# reduced the problem to deciding whether B is a substring of some A * k
+# the tricky part is the value of q
+q = (len(B)-1)//len(A)+1
