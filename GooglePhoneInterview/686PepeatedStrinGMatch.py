@@ -1,4 +1,5 @@
 #686 Repeated String Match
+# idea comes form : https://leetcode.com/problems/repeated-string-match/solution/
 class Solution(object):
     def repeatedStringMatch(self, A, B):
         """
