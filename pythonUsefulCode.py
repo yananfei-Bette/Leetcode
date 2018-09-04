@@ -33,3 +33,11 @@ wordlist = [word for word in wordlist if sum(i == j for i, j in zip(guess, word)
 
 #10
 count = collections.Counter(w1 for w1, w2 in itertools.permutations(wordlist, 2) if match(w1, w2) == 0)
+
+#11
+#create graph
+G, W = collections.defaultdict(set), collections.defaultdict(float)
+for (A, B), V in zip(equations, values):
+    # set compute
+    G[A], G[B] = G[A] | {B}, G[B] | {A}
+    W[A, B], W[B, A] = V, 1.0/V
