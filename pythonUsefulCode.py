@@ -47,3 +47,62 @@ for (A, B), V in zip(equations, values):
 # reduced the problem to deciding whether B is a substring of some A * k
 # the tricky part is the value of q
 q = (len(B)-1)//len(A)+1
+
+#13
+# yield
+# all(x == y for x, y in itertools.izip_longest(F(S), F(T)))
+        def F(S):
+            skip = 0
+            for char in reversed(S):
+                if char == '#':
+                    skip += 1
+                elif skip:
+                    skip -= 1
+                else:
+                    yield char
+                    
+        return all(x == y for x, y in itertools.izip_longest(F(S), F(T)))
+
+#14
+#initial a dictionary
+def isIsomorphic(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        dic1, dic2 = {}, {}
+        for i,val in enumerate(s):
+            dic1[val] = dic1.get(val,[])+[i]
+        for i,val in enumerate(t):
+            dic2[val] = dic2.get(val,[])+[i]
+        #print dic1,dic2
+        #print sorted(dic1.values()), sorted(dic2.values())
+        return sorted(dic1.values()) == sorted(dic2.values())
+
+#15
+        for r, row in enumerate(matrix):
+            for c, val in enumerate(row):
+
+#16
+workers = sorted((float(w)/q, q, w) for w, q in zip(wage, quality))
+
+heapPool = []
+#maxheap
+heapq.heappush(heapPool, -q)
+sumQualities += heapq.heappop(heapPool)
+
+#17
+#initialize a hash set
+        hashset = {}
+        #initial source of stones[0] and the rest of stones
+        for i in range(len(stones)):
+            hashset[stones[i]] = set()
+        hashset[stones[0]].add(0) #source is 0 and unit in the first stone is 1 cz k+j > 0
+
+#18
+#dfs with memo(like visited)
+
+#19 build binary tree
+active = []
+i = bisect.bisect(active, flower)
