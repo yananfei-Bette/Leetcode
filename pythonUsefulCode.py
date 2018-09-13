@@ -150,3 +150,6 @@ class MedianFinder(object):
 # obj = MedianFinder()
 # obj.addNum(num)
 # param_2 = obj.findMedian()
+
+#21
+''.join(str(r) for r in res)
