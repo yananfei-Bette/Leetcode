@@ -153,3 +153,6 @@ class MedianFinder(object):
 
 #21
 ''.join(str(r) for r in res)
+
+#22
+curr = curr.children.setdefault(char, TrieNode())
