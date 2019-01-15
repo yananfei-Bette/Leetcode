@@ -69,3 +69,9 @@
 **GoogleOA**
 
 1. 159 Longest Substring with at Most Two Distinct Characters **Two Pointers/ Hash Table**
+
+# 01_14_2019
+
+**AmazonOA**
+
+Reference: click here (https://wdxtub.com/interview/14520850399861.html)
