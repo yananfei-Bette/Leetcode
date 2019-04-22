@@ -1,6 +1,6 @@
 # Leetcode
 
-This is my Leetcode repo. I use it to do:
+This is my Leetcode repo. I use it to:
 
 1. Collect some OAs and prepare for interviews.
 
